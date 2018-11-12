@@ -1,0 +1,1 @@
+This is currently just a placeholder for a future Implementation with a API in the Background to make everything automatically work with the ingame Data. More cool statistics and Rules would be possible with the usage of ADR and such.
